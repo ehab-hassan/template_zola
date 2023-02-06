@@ -14,7 +14,7 @@ insert_anchor_links: "left"
 
 |||
 
-# BE THE <br> INTERNET
+# BE THE INTERNET
 
 
 The People’s Internet is powered by an entirely new incentive model made possible by the ThreeFold Blockchain.
